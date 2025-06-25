@@ -6,9 +6,10 @@
 
 
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to My GitHub Profile
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Welcome_to_My_GitHub_Profile-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e" />
+</p>
+
 
 
 ---
