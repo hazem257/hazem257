@@ -2,9 +2,11 @@
 <!-- 🚀 Custom GitHub Header Banner -->
 <!-- 🔥 Custom Wavy Header Banner -->
 <!-- 🔥 Custom Wavy Header Banner -->
+<!-- 🎯 Working GitHub Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Open%20Source&descSize=20&descAlign=center&descAlignY=65" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=1000&height=100&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Hazem+Gamal!;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
+
 
 
 
