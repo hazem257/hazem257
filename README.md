@@ -1,21 +1,16 @@
-<!-- 🎉 Welcome Banner -->
-<!-- 🚀 Custom GitHub Header Banner -->
-<!-- 🔥 Custom Wavy Header Banner -->
-<!-- 🔥 Custom Wavy Header Banner -->
-<!-- 🎯 Working GitHub Header Banner -->
+<!-- 🎉 Typing Intro Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=1000&height=100&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Hazem+Gamal!;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
 
-
-
-
-
-<h2 align="center">💻 Welcome to My World </h2>
+<!-- 🌊 Stylish Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=230&section=header&text=Welcome%20to%20My%20GitHub%20World!&fontSize=40&fontColor=ffffff&desc=Built%20with%20❤️%20by%20Hazem%20Gamal&descSize=18&descAlign=center&descAlignY=70" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 **Self-taught Full Stack Developer** with real-world experience building complete applications  
 - ⚛️ Frontend: **React.js**, Backend: **Node.js**, **PHP**, REST APIs  
@@ -25,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Toolbox
+## 🛠️ Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,ts,java,python,cpp,mysql,mongodb,git,github,linux,vscode,bash" />
@@ -33,7 +28,7 @@
 
 ---
 
-### 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazem257&show_icons=true&theme=radical&count_private=true" height="180" />
@@ -46,16 +41,16 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-> Some of my favorite works:
+> A quick look at some of my favorite works:
 
 - 🎨 [**Portfolio Website**](https://hazem1104.vercel.app/) – Modern React portfolio  
 - 🛒 [**Market System**](https://final2-ten.vercel.app/) – Full stack market management platform
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hazem257&theme=radical&margin-w=10&no-frame=true" />
@@ -63,7 +58,7 @@
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - ✅ Meta Front-End Developer (Coursera)  
 - ✅ JavaScript Algorithms and Data Structures (freeCodeCamp)  
@@ -71,7 +66,7 @@
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/hazemgm21">
@@ -90,4 +85,4 @@
 
 ---
 
-<p align="center">✨ Built with ❤️ by <strong>Hazem Gamal</strong> – Keep Building. Keep Sharing. ✨</p>
+<p align="center">✨ Made with passion by <strong>Hazem Gamal</strong> – Never stop learning. Never stop building. ✨</p>
