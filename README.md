@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=950&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Developer+%7C+React+%7C+Node+%7C+PHP;Open+Source+Contributor+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=950&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Developer+%7C+React+%7C+Node+%7C+PHP;Open+Source+Contributor+💪" />
 </p>
 
 <h1 align="center">💻 Welcome to My GitHub</h1>
