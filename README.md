@@ -1,45 +1,49 @@
-<!-- 👋 Header Banner -->
+<!-- 🎉 Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source&descSize=18&descAlignY=60&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=60&descAlign=center" />
 </p>
 
-<h2 align="center">💻 Welcome to My GitHub Profile</h2>
+<h2 align="center">💻 Welcome to My GitHub Universe</h2>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Self-taught developer with real-world experience building full stack applications  
-- ⚛️ Specialized in **React.js** for frontend and **Node.js / PHP** for backend  
-- 🛠️ Programming Languages: **C++**, **Python**, **Java**, **JavaScript**  
-- 💡 Passionate about automation, creative UI, and solving real-world problems  
-- 📬 Email: **hazemgmall45@gmail.com**  
-- 📱 WhatsApp: [+20 102 554 7663](https://wa.me/201025547663)
+- 🎓 **Self-taught Full Stack Developer** with real-world experience building complete applications  
+- ⚛️ Frontend: **React.js**, Backend: **Node.js**, **PHP**, REST APIs  
+- 🧠 Languages: **JavaScript**, **Python**, **C++**, **Java**  
+- 🎨 Passionate about clean UI, automation & building practical tools  
+- 📬 Reach Me: **hazemgmall45@gmail.com** | 📱 [WhatsApp](https://wa.me/201025547663)
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,java,python,cpp,mongodb,mysql,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,ts,java,python,cpp,mysql,mongodb,git,github,linux,vscode,bash" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazem257&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hazem257&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem257&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hazem257&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hazem257&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem257&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎨 [**Portfolio Website**](https://hazem1104.vercel.app/) – Built with React and modern design  
-- 🛒 [**Market System**](https://final2-ten.vercel.app/) – Full stack market management system using REST APIs
+> Some of my favorite works:
+
+- 🎨 [**Portfolio Website**](https://hazem1104.vercel.app/) – Modern React portfolio  
+- 🛒 [**Market System**](https://final2-ten.vercel.app/) – Full stack market management platform
 
 ---
 
@@ -54,19 +58,19 @@
 ### 📜 Certifications
 
 - ✅ Meta Front-End Developer (Coursera)  
-- ✅ JavaScript Algorithms (freeCodeCamp)  
-- ✅ Advanced PHP with MySQL (Udemy)
+- ✅ JavaScript Algorithms and Data Structures (freeCodeCamp)  
+- ✅ Advanced PHP & MySQL (Udemy)
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/hazemgm21">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:hazemgmall45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hazem-gmall-2537b4371/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -78,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Built with ❤️ by Hazem ✨</p>
+<p align="center">✨ Built with ❤️ by <strong>Hazem Gamal</strong> – Keep Building. Keep Sharing. ✨</p>
