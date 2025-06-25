@@ -5,11 +5,10 @@
 </p>
 
 
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to My GitHub Profile
-</h2>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Hazem_Gamal-Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Active-green?style=for-the-badge&logo=github" />
+</p>
 
 
 
