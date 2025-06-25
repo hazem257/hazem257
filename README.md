@@ -1,13 +1,9 @@
 <!-- 👋 Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlign=center" />
-
-<h2 align="center">💻 Welcome to My GitHub Profile</h2>
-
-<!-- 👋 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source&descSize=18&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source&descSize=18&descAlignY=60&descAlign=center" />
 </p>
 
+<h2 align="center">💻 Welcome to My GitHub Profile</h2>
 
 ---
 
