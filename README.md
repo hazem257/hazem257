@@ -37,9 +37,8 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [portfolio](https://github.com/hazem257/nocap): AI-powered CAPTCHA solver (Rust)
-- 🌐 [](https://github.com/hazem257/zelda): HTTP client in Zig
-- 🤖 [mairu](https://github.com/hazem257/mairu): Discord bot in Go
+- 🧠 [portfolio](https://hazem1104.vercel.app/): React Portfolio 
+- 🌐 [Market System](https://final2-ten.vercel.app/): Controling The System of Market Using API  
 
 ---
 
