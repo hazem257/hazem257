@@ -1,7 +1,9 @@
 <!-- 🔥 Typing Animation Banner -->
+<!-- 📝 Typing SVG Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Zi6NpgO.png" alt="Hazem Gamal Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MySQL+%7C+MongoDB;Open+Source+Contributor+💪" />
 </p>
+
 
 
 <h1 align="center">💻 Welcome to My GitHub</h1>
