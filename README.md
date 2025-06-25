@@ -1,11 +1,13 @@
 <!-- 🎉 Welcome Banner -->
 <!-- 🚀 Custom GitHub Header Banner -->
+<!-- 🔥 Custom Wavy Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ef4444&height=220&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=48&fontAlign=center&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20%7C%20Open%20Source%20Contributor&descAlign=center&descSize=20&fontAlignY=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Open%20Source&descSize=20&descAlign=center&descAlignY=65" />
 </p>
 
 
-<h2 align="center">💻 Welcome to My GitHub Universe</h2>
+
+<h2 align="center">💻 Welcome to My World </h2>
 
 ---
 
