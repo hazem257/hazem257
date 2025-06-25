@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hazem Gamal</h1>
-<h3 align="center">💻 Full Stack Developer | ⚛️ React Expert | 🚀 Open Source Enthusiast</h3>
+<!-- 👋 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlign=center" />
+
+<h2 align="center">💻 Welcome to My GitHub Profile</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PHP+%7C+MongoDB;Loves+clean+code+and+open+source!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36D1DC&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PHP;Loves+Clean+Code+and+Creativity!" />
 </p>
 
 ---
@@ -10,17 +12,18 @@
 ### 👨‍💻 About Me
 
 - 🎓 Self-taught developer with real-world experience building full stack applications  
-- ⚛️ Specialized in **React** for frontend and **Node.js/PHP** for backend  
-- 🛠️ Languages: **C++**, **Python**, **Java**, **JavaScript**  
-- 🔧 I love building tools, bots, and systems that solve real problems  
-- 📫 Email: **hazemgmall45@gmail.com**
+- ⚛️ Specialized in **React.js** for frontend and **Node.js / PHP** for backend  
+- 🛠️ Programming Languages: **C++**, **Python**, **Java**, **JavaScript**  
+- 💡 Passionate about automation, creative UI, and solving real-world problems  
+- 📬 Email: **hazemgmall45@gmail.com**  
+- 📱 WhatsApp: [+20 102 554 7663](https://wa.me/201025547663)
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,php,mongodb,mysql,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,java,python,cpp,mongodb,mysql,git,github,vscode,linux,bash" />
 </p>
 
 ---
@@ -37,8 +40,8 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [Portfolio Website](https://hazem1104.vercel.app/) – Built with React and modern design  
-- 🛒 [Market System](https://final2-ten.vercel.app/) – Full stack market management system using REST APIs
+- 🎨 [**Portfolio Website**](https://hazem1104.vercel.app/) – Built with React and modern design  
+- 🛒 [**Market System**](https://final2-ten.vercel.app/) – Full stack market management system using REST APIs
 
 ---
 
@@ -50,7 +53,15 @@
 
 ---
 
-### 📫 Connect With Me
+### 📜 Certifications
+
+- ✅ Meta Front-End Developer (Coursera)  
+- ✅ JavaScript Algorithms (freeCodeCamp)  
+- ✅ Advanced PHP with MySQL (Udemy)
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/hazemgm21">
