@@ -7,8 +7,10 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Welcome_to_My_GitHub_Profile-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e" />
+  <img src="https://img.shields.io/badge/Hazem_Gamal-Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Active-green?style=for-the-badge&logo=github" />
 </p>
+
 
 
 
