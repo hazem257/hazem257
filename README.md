@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem</h1>
+<h1 align="center">Hi 👋, I'm Hazem Gamal</h1>
 <h3 align="center">Full Stack Developer | React Expert | Open Source Enthusiast</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,php,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,mongodb,mysql,php,git,github,vscode,linux" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [nocap](https://github.com/hazem257/nocap): AI-powered CAPTCHA solver (Rust)
-- 🌐 [zelda](https://github.com/hazem257/zelda): HTTP client in Zig
+- 🧠 [portfolio](https://github.com/hazem257/nocap): AI-powered CAPTCHA solver (Rust)
+- 🌐 [](https://github.com/hazem257/zelda): HTTP client in Zig
 - 🤖 [mairu](https://github.com/hazem257/mairu): Discord bot in Go
 
 ---
@@ -55,6 +55,6 @@
 
 <p align="center">
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="Gemail:hazemgmall45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hazem-gmall-2537b4371/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
