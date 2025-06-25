@@ -1,7 +1,9 @@
 <!-- 🎉 Welcome Banner -->
+<!-- 🚀 Custom GitHub Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=60&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ef4444&height=220&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=48&fontAlign=center&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20React%20%7C%20Open%20Source%20Contributor&descAlign=center&descSize=20&fontAlignY=50&descAlignY=75" />
 </p>
+
 
 <h2 align="center">💻 Welcome to My GitHub Universe</h2>
 
