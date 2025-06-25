@@ -3,9 +3,11 @@
 
 <h2 align="center">💻 Welcome to My GitHub Profile</h2>
 
+<!-- 👋 Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36D1DC&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PHP;Loves+Clean+Code+and+Creativity!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EF4444&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=45&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Open%20Source&descSize=18&descAlignY=55&descAlign=center" />
 </p>
+
 
 ---
 
