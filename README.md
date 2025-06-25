@@ -1,9 +1,11 @@
 <!-- 🎉 Welcome Banner -->
 <!-- 🚀 Custom GitHub Header Banner -->
 <!-- 🔥 Custom Wavy Header Banner -->
+<!-- 🔥 Custom Wavy Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=250&section=header&text=Hazem%20Gamal%20👨‍💻&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Open%20Source&descSize=20&descAlign=center&descAlignY=65" />
 </p>
+
 
 
 
