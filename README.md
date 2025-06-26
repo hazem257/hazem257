@@ -1,31 +1,24 @@
-<!-- 🔥 Typing Animation Banner -->
-<!-- 📝 Typing SVG Banner -->
+<!-- 🔥 Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MySQL+%7C+MongoDB;Open+Source+Contributor+💪" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor+%F0%9F%92%AA" />
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hazem_Gamal-Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Profile-Active-green?style=for-the-badge&logo=github" />
-</p>
-
-
+<h1 align="center">💻 Welcome to My GitHub</h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Self-taught Full Stack Developer**  
-- ⚛️ Frontend: **React.js**, Backend: **Node.js**, **PHP**  
+- 🎓 **Self-taught Full Stack Developer** with real-world experience  
+- ⚛️ Frontend: **React.js** — Backend: **Node.js**, **PHP**, REST APIs  
 - 🧠 Languages: **JavaScript**, **Python**, **C++**, **Java**  
-- 🎨 Love creating clean UIs, building tools, and automating things  
+- 🎨 Passionate about clean UI, automation & building useful tools  
 - 📬 Email: [hazemgmall45@gmail.com](mailto:hazemgmall45@gmail.com)  
 - 📱 WhatsApp: [+20 102 554 7663](https://wa.me/201025547663)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,ts,java,python,cpp,mysql,mongodb,git,github,linux,vscode,bash" />
@@ -33,11 +26,10 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazem257&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hazem257&theme=radical" height="180" />
 </p>
 
 <p align="center">
@@ -48,16 +40,14 @@
 
 ## 🚀 Featured Projects
 
+> A glimpse of some of my work:
+
 - 🎨 [**Portfolio Website**](https://hazem1104.vercel.app/) — Modern React portfolio  
 - 🛒 [**Market System**](https://final2-ten.vercel.app/) — Full stack market management app
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats-git-main-hazem257.vercel.app/api?username=hazem257&show_icons=true&theme=radical" />
-</p>
 
 
 
@@ -71,7 +61,7 @@
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/hazemgm21">
@@ -90,4 +80,8 @@
 
 ---
 
-<p align="center">✨ Built with ❤️ by <strong>Hazem Gamal</strong> — Never stop learning. Never stop building. ✨</p>
+<p align="center">✨ Made with passion by <strong>Hazem Gamal</strong> — Never stop learning. Never stop building. ✨</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hazem_Gamal-Developer-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Active-green?style=for-the-badge&logo=github" />
+</p>
