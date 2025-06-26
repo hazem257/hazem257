@@ -1,6 +1,6 @@
 <!-- 🔥 Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=1000&height=100&lines=Hi+I'm+Hazem+Gamal+👨‍💻;Full+Stack+Web+Developer;React+%7C+Node+%7C+PHP+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor+%F0%9F%92%AA" />
+  <img src="./banner.svg" />
 </p>
 
 <h1 align="center">💻 Welcome to My GitHub</h1>
