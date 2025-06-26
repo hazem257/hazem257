@@ -49,6 +49,9 @@
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hazem257&theme=radical&row=1&margin-w=10&no-frame=true" />
+</p>
 
 
 ---
