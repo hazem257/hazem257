@@ -14,7 +14,7 @@
 - 🧠 Languages: **JavaScript**, **Python**, **C++**, **Java**  
 - 🎨 Passionate about clean UI, automation & building useful tools  
 - 📬 Email: [hazemgmall45@gmail.com](mailto:hazemgmall45@gmail.com)  
-- 📱 WhatsApp: [+20 102 554 7663](https://wa.me/201025547663)
+- 📱 WhatsApp: [+20 102 554 7663](https://wa.me/201025547663) || [+20 115 965 5999] (https://wa.me/201159655999)
 
 ---
 
