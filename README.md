@@ -62,7 +62,7 @@ My skills are backed by industry-recognized certifications.
 |:---:|---|:---:|
 | <a href="#"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="120"></a> | **Junior Cybersecurity Analyst Career Path** | Cisco |
 | <a href="#"><img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="120"></a> | **Network Defense** | Cisco |
-| <a href="#"><img src="https://images.credly.com/size/64x64/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120"></a> | **Endpoint Security** | Cisco |
+| <a href="#"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120"></a> | **Endpoint Security** | Cisco |
 | <a href="#"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120"></a> | **Ethical Hacker** | Cisco |
 | <a href="#"><img src="http://images.credly.com/size/64x64/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120"></a> | **Introduction to Cybersecurity** | Cisco |
 | <a href="#"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="120"></a> | **Networking Basics** | Cisco |
