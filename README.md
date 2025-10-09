@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught Full Stack Developer with a passion for building clean, efficient, and user-friendly applications. With hands-on experience in the entire development lifecycle, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I specialize in the **MERN stack** but I'm also proficient with **PHP** and other technologies. My goal is to never stop learning and to build tools that make a difference.
+I'm a self-taught **Full Stack Developer** with a passion for building clean, efficient, and user-friendly applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I specialize in the **MERN stack** and am also proficient with **PHP**. My goal is to never stop learning and to build tools that make a difference.
 
 ---
 
@@ -103,14 +103,18 @@ I'm a self-taught Full Stack Developer with a passion for building clean, effici
 ## 📜 Certifications & Learning
 
 ### Cisco Networking Academy
-> **Note:** Please replace the links below with your actual Cisco certification URLs.
-> **ملحوظة:** برجاء استبدال الروابط بالأسفل بروابط شهادات سيسكو الخاصة بك.
+> **Note:** Please replace the `#` in the links below with your actual Cisco certification URLs.
+> **ملحوظة:** برجاء استبدال علامة `#` في الروابط بالأسفل بروابط شهادات سيسكو الخاصة بك.
 
 | Badge | Certification | Issued By |
 |:---:|---|:---:|
-| <a href="YOUR_CISCO_CERTIFICATION_LINK_HERE"><img src="https://images.credly.com/size/220x220/images/62b72d38-2f63-4712-87a3-21b0f589852f/image.png" width="120"></a> | **CCNA: Switching, Routing, and Wireless Essentials** | Cisco Networking Academy |
-| <a href="YOUR_CISCO_CERTIFICATION_LINK_HERE"><img src="https://images.credly.com/size/220x220/images/d309832c-3a32-4133-a337-1335b88331ea/image.png" width="120"></a> | **CyberOps Associate** | Cisco Networking Academy |
-| <a href="YOUR_CISCO_CERTIFICATION_LINK_HERE"><img src="https://images.credly.com/size/220x220/images/4f6e4963-35f6-4f49-9213-9a3111f1de8f/image.png" width="120"></a> | **Networking Essentials** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/e78f6983-0941-4328-8542-a337a5a850a8/image.png" width="120"></a> | **Junior Cybersecurity Analyst Career Path** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/0937a13c-9faa-4c99-a53a-c07a4a86f328/image.png" width="120"></a> | **Network Defense** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/28132049-166a-4927-8a39-2c3e1b73e5e4/image.png" width="120"></a> | **Endpoint Security** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/d309832c-3a32-4133-a337-1335b88331ea/image.png" width="120"></a> | **Networking Basics** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/3a65e921-6d73-4fcc-a8a4-31518b217646/image.png" width="120"></a> | **Ethical Hacker** | Cisco Networking Academy |
+| <a href="#"><img src="https://images.credly.com/size/220x220/images/43b71103-e5f8-4f46-95e2-2a74478168e3/image.png" width="120"></a> | **Introduction to Cybersecurity** | Cisco Networking Academy |
+
 
 ### Meta & freeCodeCamp
 | Badge | Certification | Issued By |
@@ -118,9 +122,7 @@ I'm a self-taught Full Stack Developer with a passion for building clean, effici
 | <a href="https://www.credly.com/badges/9b828a2a-77e8-4660-848e-2f08a529329a"><img src="https://images.credly.com/size/220x220/images/be8013f3-1390-4493-855c-2736b8415340/image.png" width="120"></a> | **Meta Front-End Developer** | Meta / Coursera |
 | <a href="https://www.credly.com/badges/f061d490-b30f-48d1-8d2b-67a8b6630f9a"><img src="https://images.credly.com/size/220x220/images/3362a4e3-389f-4df3-9799-a868d4013442/image.png" width="120"></a> | **Programming with JavaScript** | Meta / Coursera |
 | <a href="https://www.credly.com/badges/db1855e9-cf4d-45df-a2c6-302a5a519803"><img src="https://images.credly.com/size/220x220/images/2d22f51a-5136-4318-a649-38a164b4a161/image.png" width="120"></a> | **Advanced React** | Meta / Coursera |
-| <a href="https://www.credly.com/badges/8c06788e-4a41-455b-8664-889816e8b43f"><img src="https://images.credly.com/size/220x220/images/50180436-1135-4917-9150-3a3f054737a4/image.png" width="120"></a> | **React Basics** | Meta / Coursera |
 | <a href="https://www.freecodecamp.org/certification/hazemgamal/javascript-algorithms-and-data-structures"><img src="https://user-images.githubusercontent.com/78347820/211516244-93361559-6934-42b3-9e4a-2f4039a482b1.png" width="120"></a> | **JS Algorithms and Data Structures** | freeCodeCamp |
-| <a href="https://www.credly.com/badges/ed4f107f-71b5-4b19-915b-9c29d666d953"><img src="https://images.credly.com/size/220x220/images/2816922f-356a-4931-8f7d-2b4a3c3c1a32/image.png" width="120"></a> | **Version Control** | Meta / Coursera |
 
 ---
 
