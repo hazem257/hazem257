@@ -101,7 +101,7 @@ My skills are backed by industry-recognized certifications.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazem257&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&" height="180" alt="Hazem's GitHub Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazem257&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazem257&theme=tokyonight" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazem257&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazem257&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
